@@ -1,0 +1,32 @@
+package com.greycampus;
+
+import java.sql.Date;
+
+public class CustomerDetails {
+	
+
+	
+	private int cid;
+	private String firstname;
+	private String lastname;
+	private String street;
+	private String city;
+	private String state;
+	private int zipcode;
+	private String product_name;
+	private Date created_on;
+	private String created_by;
+	private Date update_on;
+	private String updated_by;
+
+	
+
+	
+	
+
+	
+
+	
+
+
+}
